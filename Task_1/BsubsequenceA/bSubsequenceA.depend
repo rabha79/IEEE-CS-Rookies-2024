@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1701183455 source:d:\ieee\task_1\bsubsequencea\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
