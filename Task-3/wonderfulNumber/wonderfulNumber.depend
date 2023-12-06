@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1701872958 source:d:\ieee\task-3\wonderfulnumber\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
