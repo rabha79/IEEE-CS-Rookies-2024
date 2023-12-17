@@ -13,6 +13,5 @@ int main()
     int num;
     cin>>num;
     asscending(num);
-
     return 0;
 }
